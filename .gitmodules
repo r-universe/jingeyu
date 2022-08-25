@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CTSV"]
+	path = CTSV
+	url = https://github.com/jingeyu/ctsv
+	shallow = true
+	registered = true
